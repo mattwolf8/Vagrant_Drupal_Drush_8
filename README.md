@@ -87,7 +87,7 @@ USING DRUSH
 * 2. Install and activate a module
 * ***$ drush en bootstrap -y***
 * 3. Clear the cache
-* ***$ drush cc***
+* ***$ drush cr***
 
 REQUIREMENTS
 * [Git](https://git-scm.com/downloads)
