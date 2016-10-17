@@ -20,7 +20,7 @@ SET UP VAGRANT
 
 ADDING A DATABASE
 * 1. log into mysql
-* ***$ mysql -uroot -proot***
+* ***$ mysql -uroot -proot*** l
 * 2. create the database
 * ***$ create database drupal8;***
 * ***$ exit;***
